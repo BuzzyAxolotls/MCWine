@@ -29,6 +29,7 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - [Fabric-ItemModelFix (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fabric-MoveChat (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fabric-SkyColorFix (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
+- [Fabric-SmoothBoot (Aka Smooth-Boot)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - **UltimateBoomer**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
 - [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - **modmuss50**, **Chocohead**,
 - [OptiFine](https://optifine.net/home) - **sp614x**,
