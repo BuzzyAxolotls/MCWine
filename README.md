@@ -23,7 +23,6 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
-- [Dynamic-Lights (Aka LambDynamicLights)](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
 - [Fabric-AudioReloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
 - [Fabric-FixTooltips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
@@ -31,22 +30,19 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - [Fabric-MoveChat (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fabric-SkyColorFix (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
-- [MultiConnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) - **EarthComputer**,
+- [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - **modmuss50, Chocohead**,
+- [OptiFine](https://optifine.net/home) - **sp614x**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - **jellysquid_**,
 - [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
-- [Voyager](https://github.com/modmuss50/Voyager) - **modmuss50**,
+- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
 
 ### Additional thanks to
 
-- FlashyReese for providing an 1.16.2/1.16.3 version of [sodium](https://github.com/FlashyReese/sodium-fabric) + Helping me create this entire readme document,
-- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
-- MrMangoHands for helping out with sharing the lithium configuration codes.
+- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
