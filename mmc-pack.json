@@ -43,9 +43,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.10.7",
+            "cachedVersion": "0.10.8",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.10.7"
+            "version": "0.10.8"
         }
     ],
     "formatVersion": 1
