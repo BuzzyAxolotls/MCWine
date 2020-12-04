@@ -17,7 +17,7 @@ It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.
 
 ### Alternate MCWine branch
 
-If you believe Sodium or MultiConnect does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of OptiFine + ViaFabric instead. The method of this branch should be identical like the Vanilla method.
+If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of OptiFine + MultiConnect instead. The method of this branch should be identical like the Vanilla method.
 
 
 ### The following mods are owned by (Using original names with URLs instead):
@@ -30,12 +30,12 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - [Fabric-MoveChat (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fabric-SkyColorFix (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
+- [MultiConnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) - **EarthComputer**,
 - [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - **modmuss50, Chocohead**,
 - [OptiFine](https://optifine.net/home) - **sp614x**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
 - [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
-- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
