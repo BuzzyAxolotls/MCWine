@@ -45,7 +45,8 @@ If you believe OptiFine does not work out properly on your computer, Then you ca
 
 ### Additional thanks to
 
-- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen.
+- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) for making the "Default+" resource pack possible.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
