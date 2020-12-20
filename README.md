@@ -25,15 +25,17 @@ If you believe OptiFine does not work out properly on your computer, Then you ca
 
 ### The following mods are owned by (Using original names with URLs instead):
 
+- [Audio-Reloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
 - [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
-- [Fabric-AudioReloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
-- [Fabric-FixTooltips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
-- [Fabric-ItemModelFix (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
-- [Fabric-MoveChat (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
-- [Fabric-SkyColorFix (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fabric-SmallTweaks (Aka Boring Tweaks)](https://www.curseforge.com/minecraft/mc-mods/boring-tweaks) - **boredomh1**,
+- [Fix-Advancements (Aka Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) - **thetechnici4n**,
+- [Fix-ChatPosition (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
+- [Fix-ChestAnimation (Aka Chest Latch Fixer](https://www.curseforge.com/minecraft/mc-mods/chest-latch-fixer) - **ExtraCrafTX**,
+- [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
+- [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
+- [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
 - [MultiConnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) - **EarthComputer**,
 - [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - **modmuss50, Chocohead**,
 - [OptiFine](https://optifine.net/home) - **sp614x**,
