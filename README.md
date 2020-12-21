@@ -17,11 +17,7 @@ It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.
 
 ### Alternate MCWine branch
 
-If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of OptiFine + MultiConnect instead. The method of this branch should be identical like the Vanilla method.
-
-### Canvas for MCWine branch
-
-If you believe OptiFine does not work out properly on your computer, Then you can try to fall back to the [Canvas Branch](https://github.com/Kichura/MCWine/tree/Canvas) in order to make use of Canvas instead. The method of this branch should be identical like the Vanilla method.
+If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of Canvas + MultiConnect instead. The method of this branch should be identical like the Vanilla method.
 
 ### The following mods are owned by (Using original names with URLs instead):
 
@@ -64,3 +60,7 @@ Please contact the original authors at github or their discord servers for more 
 ### Where the name "MCWine" comes from
 
 The name "MCWine" is an inspired name from the linux software ["Wine"](https://github.com/wine-mirror/wine) where you can run your favorite windows applications using any older windows version you like on the linux environment without having to emulate them inside a virtual machine utility, Wine also keeps the performance intact thanks to it's compatibility layer; Allowing users to keep up their applications without losing any performance from their real hardware. Thous i chose the name "MCWine" for this entire modpack as a strong reference.
+
+### License
+
+MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file as seen in the code data.
