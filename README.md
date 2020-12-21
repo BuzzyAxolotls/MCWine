@@ -59,3 +59,7 @@ If you believe OptiFine does not work out properly on your computer, Then you ca
 ### Found a bug/issue via MCWine (Mods only)?
 
 Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above.
+
+### License
+
+MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file as seen in the code data.
