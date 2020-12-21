@@ -26,7 +26,9 @@ If you believe OptiFine does not work out properly on your computer, Then you ca
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Audio-Reloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
+- [Better-Grass (Aka LambdaBetterGrass)](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) - **LambdAurora**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
+- [Canvas](https://github.com/grondag/canvas) - **grondag**, 
 - [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
 - [Fabric-SmallTweaks (Aka Boring Tweaks)](https://www.curseforge.com/minecraft/mc-mods/boring-tweaks) - **boredomh1**,
 - [Fix-Advancements (Aka Advancements Debug)](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) - **thetechnici4n**,
@@ -36,27 +38,24 @@ If you believe OptiFine does not work out properly on your computer, Then you ca
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
-- [MultiConnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) - **EarthComputer**,
-- [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - **modmuss50, Chocohead**,
-- [OptiFine](https://optifine.net/home) - **sp614x**,
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady, CFGrafanaStats**,
-- [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
+- [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
+- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
+- [Zoom (Aka Ok Zoomer)](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - **boredomh1**
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
 
 ### Additional thanks to
 
-- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,
+- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
+- MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) for making the "Default+" resource pack possible.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
 
 Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above.
-
-### Where the name "MCWine" comes from
-
-The name "MCWine" is an inspired name from the linux software ["Wine"](https://github.com/wine-mirror/wine) where you can run your favorite windows applications using any older windows version you like on the linux environment without having to emulate them inside a virtual machine utility, Wine also keeps the performance intact thanks to it's compatibility layer; Allowing users to keep up their applications without losing any performance from their real hardware. Thous i chose the name "MCWine" for this entire modpack as a strong reference.
