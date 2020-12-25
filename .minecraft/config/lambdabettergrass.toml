@@ -1,0 +1,10 @@
+# Better-Grass' configuration,
+# It is recommended you leave this mode set to fancy for best effects unless your game lags out or crashes with this mod, Then please remove this from your profile.
+mode = "fancy"
+
+
+# Improves the layers for grass blocks.
+better_layer = true
+
+# Debug mode for Better-Grass, This should remain disabled as we don't acquire this at all.
+debug = false

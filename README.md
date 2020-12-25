@@ -17,13 +17,14 @@ It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.
 
 ### Alternate MCWine branch
 
-If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of Canvas + MultiConnect instead. The method of this branch should be identical like the Vanilla method.
+If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of Canvas + MultiConnect instead. The method of this branch should be identical like the Vanilla method, But if you need to make use of the MultiMC for Alternate then you can try this [Alternate-MultiMC branch](https://github.com/Kichura/MCWine/tree/Alternate-MultiMC) instead.
 
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Audio-Reloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
+- [Better-Grass (Aka LambdaBetterGrass)](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) - **LambdAurora**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
-- [Dynamic-Lights (Aka LambDynamicLights)](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - **LambdAurora**,
+- [Canvas](https://github.com/grondag/canvas) - **grondag**, 
 - [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
 - [Fabric-SmallTweaks (Aka Boring Tweaks)](https://www.curseforge.com/minecraft/mc-mods/boring-tweaks) - **boredomh1**,
 - [Fix-Advancements (Aka Advancements Debug)](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) - **thetechnici4n**,
@@ -36,9 +37,8 @@ If you believe Sodium or ViaFabric does not work out properly on your computer, 
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - **jellysquid_**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady, CFGrafanaStats**,
-- [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
+- [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
 - [Zoom (Aka Ok Zoomer)](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - **boredomh1**,
