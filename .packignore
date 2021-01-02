@@ -3,6 +3,7 @@
 .minecraft/logs
 .minecraft/options.txt
 .minecraft/realms_persistence.json
+.minecraft/resourcepacks
 .minecraft/saves
 .minecraft/screenshots
 .minecraft/server-resource-packs
