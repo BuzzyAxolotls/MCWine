@@ -4,7 +4,7 @@
    "weather_quality": "FAST",
    "enable_vignette": false,
    "enable_clouds": false,
-   "smooth_lighting": "HIGH"
+   "smooth_lighting": "OFF"
   },
   "advanced": {
     "chunk_renderer_backend": "GL33",
