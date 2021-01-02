@@ -21,7 +21,7 @@ If you believe Sodium or ViaFabric does not work out properly on your computer, 
 
 ### Lite MCWine branch
 
-If you need to acquire a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for a lite version.
+If you need to acquire a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for a lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/tree/MultiMC-Lite)).
 
 ### The following mods are owned by (Using original names with URLs instead):
 
