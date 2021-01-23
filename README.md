@@ -25,7 +25,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 ### The following mods are owned by (Using original names with URLs instead):
 
-- [Audio-Reloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
+- [Audio-Management (Aka Audio Output)](https://www.curseforge.com/minecraft/mc-mods/audio-output) - **Maximumgame**,
 - [Better-Grass (Aka LambdaBetterGrass)](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) - **LambdAurora**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
 - [Canvas](https://github.com/grondag/canvas) - **grondag**, 
@@ -51,17 +51,13 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
 - MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) for making the "Default+" resource pack possible,
-- DragonEggBedrockBreaking for the [absorption heart fix](https://github.com/DragonEggBedrockBreaking/chat-up) to "Chat Up!".
-
+- DragonEggBedrockBreaking for the [absorption heart fix](https://github.com/DragonEggBedrockBreaking/chat-up) to "Chat Up!",
+- [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader.
 
 ### Found a bug/issue via MCWine (Mods only)?
 
 Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above. I also am NOT responsible for any damages or broken mods that are mentioned above in the mods list, You can however choose to contact [me](https://github.com/Kichura) if you believe something is in error and requires a fix for it as soon as possible.
 
-### Where the name "MCWine" comes from
-
-The name "MCWine" is an inspired name from the linux software ["Wine"](https://github.com/wine-mirror/wine) where you can run your favorite windows applications using any older windows version you like on the linux environment without having to emulate them inside a virtual machine utility, Wine also keeps the performance intact thanks to it's compatibility layer; Allowing users to keep up their applications without losing any performance from their real hardware. Thous i chose the name "MCWine" for this entire modpack as a strong reference.
-
 ### License
 
-MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/MultiMC/LICENSE).
+MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Alternate/LICENSE).
