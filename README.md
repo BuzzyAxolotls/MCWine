@@ -33,8 +33,8 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
 - [Krypton](https://github.com/astei/krypton) - **astei**,
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/Phosphor) - **jellysquid_**,
 - [Sodium](https://github.com/jellysquid3/sodium-fabric/tree/1.16.x/next) - **jellysquid_**,
-- [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**
 
