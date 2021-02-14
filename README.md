@@ -39,7 +39,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Krypton](https://github.com/astei/krypton) - **astei**,
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
-- [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/Phosphor) - **jellysquid_**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady, CFGrafanaStats**,
 - [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
