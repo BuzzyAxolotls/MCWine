@@ -32,6 +32,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
+- [LazyDFU](https://github.com/astei/lazydfu) - **astei**,
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **CaffeineMC**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/Phosphor) - **CaffeineMC**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
