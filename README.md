@@ -27,14 +27,14 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
-- [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
+- [Fabric-API](https://modrinth.com/mod/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
 - [Fix-ChatPosition (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
-- [LazyDFU](https://github.com/astei/lazydfu) - **astei**,
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **CaffeineMC**,
-- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/Phosphor) - **CaffeineMC**,
+- [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
+- [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
+- [Phosphor](https://modrinth.com/mod/phosphor) - **CaffeineMC**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**
