@@ -1,0 +1,14 @@
+# Try to detect these file-extensions as JavaScript.
+*.json linguist-language=JavaScript 
+*.json5 linguist-language=JavaScript
+*.yml linguist-language=JavaScript
+*.toml linguist-language=JavaScript
+
+# Try to detect these file-extensions as Java.
+*.jar linguist-language=Java
+*.properties linguist-language=Java
+
+# Attempt to make these files not available upon cloning/download.
+README.md export-ignore
+LICENSE export-ignore
+.gitattributes export-ignore
