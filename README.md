@@ -64,4 +64,4 @@ Please contact the original authors at github or their discord servers for more 
 
 ### License
 
-MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Alternate/LICENSE).
+MCWine is licensed under GNU GPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Alternate/LICENSE).
