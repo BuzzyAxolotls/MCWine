@@ -38,13 +38,13 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [Lithium](https://modrinth.com/mod/lithium) - **jellysquid_**,
+- [MultiConnect](https://github.com/Earthcomputer/multiconnect) - **Earthcomputer**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://modrinth.com/mod/phosphor) - **jellysquid_**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.16.4&mod=tweakeroo) - **masady, CFGrafanaStats**,
 - [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
-- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [Zoom (Aka Ok Zoomer)](https://modrinth.com/mod/ok-zoomer) - **boredomh1**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
