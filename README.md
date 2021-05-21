@@ -42,7 +42,6 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Lithium](https://modrinth.com/mod/lithium) - **jellysquid_**,
 - [MultiConnect](https://github.com/Earthcomputer/multiconnect) - **Earthcomputer**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
-- [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.16.4&mod=tweakeroo) - **masady, CFGrafanaStats**,
