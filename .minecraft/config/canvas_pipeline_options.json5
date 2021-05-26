@@ -1,0 +1,30 @@
+{
+    //
+	// Controls the shading modes for canvas.
+	//
+	"canvas:basic_light_config": {
+		"ao_shading_mode": "normal",
+		"diffuse_shading_mode": "normal"
+	},
+	//
+	// Controls the fog configuration for canvas.
+	//
+	"canvas:fog_config": {
+		"fog_mode": "vanilla"
+	},
+	//
+	// Controls the dynamic lights via players.
+	//
+	"canvas:handheld_light_config": {
+		"handheld_light_radius": 5
+	},
+	//
+	// Controls the bloom system for canvas.
+	// 
+	"canvas:bloom_config": {
+		"bloom_intensity": 0.1,
+		"bloom_downsample_dist": 1.0,
+		"bloom_upsample_dist": 0.1,
+		"bloom_cutoff": 0.02
+	}
+}

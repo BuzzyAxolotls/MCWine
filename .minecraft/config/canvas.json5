@@ -1,38 +1,19 @@
 {
-        //
-	// Controls the bloom system for canvas.
 	//
-	"enableBloom": false,
-	"bloomIntensity": 0.20,
-	"bloomScale": 0.25,
+	// Controls the pipeline modes for canvas.
+	//
+	"pipelineId": "canvas:pipelines/canvas_standard.json",
 	//
 	// Animates the specific blocks.
 	//
 	"wavyGrass": false,
 	//
-	// Controls the light radius when holding lit-up items/blocks.
-	//
-	"handheldLightRadius": 5,
-	//
-	// Controls the fog system for canvas.
-	//
-	"fogMode": "VANILLA",
-	//
-	// Controls the coloring system for canvas.
-	//
-	"blendFluidColors": true,
-	//
-	// Controls the lighting system for canvas,
-	// It is recommended the defaults should be used.
+	// Controls the lighting system + biome colors for canvas,
+	// This will make lighting and biome colors more smoother for quality.
 	//
 	"lightSmoothing": true,
-	"hdLightmaps": false,
-	"moreLightmap": false,
-	"lightmapNoise": false,
-	"diffuseShadingMode": "NORMAL",
-	"aoShadingMode": "NORMAL",
-	"maxLightmapDelayFrames": 0,
-	"semiFlatLighting": false,
+	"semiFlatLighting": true,
+	"blendFluidColors": true
 	//
 	// Controls the tweakings for canvas,
 	// You should not change these unless you are experiencing issues.
@@ -42,33 +23,37 @@
 	"clampExteriorVertices": true,
 	"fixLuminousBlockShading": true,
 	"terrainSetupOffThread": true,
-	"safeNativeMemoryAllocation": false,
 	"enableVao": false,
 	"cullEntityRender": true,
 	"greedyRenderThread": true,
 	"forceJmxModelLoading": true,
 	"reduceResolutionOnMac": true,
+	"vertexControlMode": false,
 	"staticFrustumPadding": 8,
 	"dynamicFrustumPadding": 16,
 	"cullParticles": true,
+	"safeNativeMemoryAllocation": false,
 	//
 	// Controls the debugging utilities for canvas,
 	// You should only use these if you feel like something is wrong with this mod.
 	//
 	"shaderDebug": false,
-	"lightmapDebug": false,
 	"conciseErrors": false,
 	"logMachineInfo": false,
 	"logGlStateChanges": false,
 	"debugNativeMemoryAllocation": false,
+	"enablePerformanceTrace": false,
 	"debugOcclusionRaster": false,
 	"debugOcclusionBoxes": false,
-	"traceOcclusionEdgeCases": false,
 	"traceOcclusionOutcomes": false,
-	"enableBufferDebug": false,
-	"enableLifeCycleDebug": false,
+	"traceOcclusionEdgeCases": false,
 	"logMissingUniforms": false,
 	"logMaterials": false,
 	"logRenderLagSpikes": false,
-	"renderLagSpikeFps": 30
+	"renderLagSpikeFps": 30,
+	"enableBufferDebug": false,
+	"displayRenderProfiler": false,
+	"enableLifeCycleDebug": false,
+	"profilerDetailLevel": 0,
+	"profilerOverlayScale": 0.5
 }
