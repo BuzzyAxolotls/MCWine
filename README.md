@@ -38,6 +38,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
+- [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://modrinth.com/mod/phosphor) - **CaffeineMC**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
