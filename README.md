@@ -42,7 +42,9 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Phosphor](https://modrinth.com/mod/phosphor) - **CaffeineMC**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
-- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**
+- [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/tree/dev) - **KennyTVN**,
+- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
+- [ViaRewind](https://github.com/ViaVersion/ViaRewind/tree/dev) - **KennyTVN**
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
 
