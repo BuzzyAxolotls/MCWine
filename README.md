@@ -44,7 +44,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/tree/dev) - **KennyTVN**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
-- [ViaRewind](https://github.com/ViaVersion/ViaRewind/tree/dev) - **KennyTVN**
+- [ViaRewind](https://github.com/ViaVersion/ViaRewind/tree/dev) - **KennyTVN**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
 
