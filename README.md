@@ -37,7 +37,6 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
-- [Krypton](https://modrinth.com/mod/krypton) - **astei**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
