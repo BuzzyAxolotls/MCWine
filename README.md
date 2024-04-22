@@ -27,7 +27,7 @@ It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/do
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [these](https://github.com/BuzzyAxolotls/MCWine/tree/Standard/sources/jvm_arguments.md) or these JVM arguments for this modpack:
+It is recommended that you use [these(old)](https://github.com/BuzzyAxolotls/MCWine/tree/Standard/sources/jvm_arguments.md) or these JVM arguments for this modpack:
 
 `-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseShenandoahGC`
 
