@@ -5,39 +5,35 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ## Installing This Modpack (Official/Vanilla Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/Nightly.zip)
+1. [**Click here to download the Canary version,**](https://github.com/Kichura/MCWine/archive/refs/heads/Canary.zip)
 2. Open your Minecraft folder,
 3. Open the ZIP-archive you have downloaded from step one,
-4. Extract the MCWine-Nightly folder from the ZIP-archive to .minecraft/versions folder, if asked - replace the files,
+4. Extract the MCWine-Canary folder from the ZIP-archive to .minecraft/versions folder, if asked - replace the files,
 5. Restart your minecraft launcher,
 6. Create a new installation instance by heading to "Installations" and choosing the **+** icon,
-7. Choose the version "release MCWine-Nightly" from versions list which should be on the top,
-8. Change the game directory from default to .minecraft/versions/MCWine-Nightly folder,
+7. Choose the version "release MCWine-Canary" from versions list which should be on the top,
+8. Change the game directory from default to .minecraft/versions/MCWine-Canary folder,
 9. Save the instance and attempt to run the instance.
 
 ## Installing This Modpack (Prism Launcher Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PrismMC-Nightly.zip)
+1. [**Click here to download the Canary version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PrismMC-Canary.zip)
 2. Drag the ZIP-archive to Prism Launcher window; and hit OK in the window that pops up,
 3. Double-click that version you just created to launch the modpack.
-
-## Updating Java Version (Optional)
-
-It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/downloads) to allow minecraft to make use of the latest java version.
 
 ## JVM Arguments (Optional)
 
 It is recommended that you use [these(old)](https://github.com/BuzzyAxolotls/MCWine/tree/Standard/sources/jvm_arguments.md) or these JVM arguments for this modpack:
 
-`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseShenandoahGC`
+`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dsodium.checks.issue2561=false -Dloader.disable_beacon=true -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+UseShenandoahGC --add-modules=jdk.incubator.vector`
 
 *(You can change the ```-Xmx3G``` and ```-Xms3G``` values in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
-Please [check this page](https://github.com/Kichura/MCWine/tree/Nightly/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
+Please [check this page](https://github.com/Kichura/MCWine/tree/Canary/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Nightly/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Canary/sources/resources_used.md) instead.
 
 ## Special Thanks To
 
@@ -55,7 +51,7 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 3. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
 4. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them,
 5. This modpack requires the use of OpenGL 3.3 or higher but if you wish to try and unlock this on your older GPU - [Learn more here,](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001)
-6. Certain keybinds in this modpack have been modified, The new keybinds can be [seen here.](https://github.com/Kichura/MCWine/blob/Nightly/sources/keybinds.md)
+6. Certain keybinds in this modpack have been modified, The new keybinds can be [seen here.](https://github.com/Kichura/MCWine/blob/Canary/sources/keybinds.md)
 
 ## Modrinth Version
 
@@ -63,4 +59,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Nightly/LICENSE)
+MCWine is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Canary/LICENSE)

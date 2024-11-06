@@ -13,7 +13,7 @@
 #
 # Update configuration goes here.
 #
-checkforupdates: false
+check-for-updates: false
 #
 # Supported version ping configuration goes here.
 #
@@ -27,22 +27,15 @@ send-supported-versions: true
 #
 block-protocols: []
 block-versions:
-- 1.4.6/7
-- 1.5/1.5.1
-- 1.5.2
-- 1.6.1
-- 1.6.2
-- 1.6.3
-- 1.6.4
 - 1.7.2-1.7.5
 - 1.7.6-1.7.10
 - '1.9'
 - 1.9.1
 - 1.9.2
-- 1.9.3/4
+- 1.9.3
 - 1.10.x
 - '1.11'
-- 1.11.1/2
+- 1.11.1
 - '1.13'
 - 1.13.1
 - 1.13.2
@@ -76,12 +69,16 @@ armor-toggle-fix: true
 cache-1_17-light: true
 chat-nbt-fix: true
 disable-1_13-auto-complete: true
+enforce-secure-chat: false
 fix-1_14-health-nan: true
+fix-1_21-placement-rotation: false
 fix-infested-block-breaking: true
 fix-low-snow-collision: true
 fix-non-full-blocklight: true
 flowerstem-when-block-above: false
 forced-use-1_17-resource-pack: true
+handle-invalid-item-count: true
+hide-scoreboard-numbers: false
 hologram-patch: true
 hologram-y: -0.96
 ignore-long-1_16-channel-names: true
@@ -91,6 +88,7 @@ register-userconnections-on-join: true
 resource-pack-1_17-prompt: §9This server requires the resource pack to be enabled in order to display other contents properly.
 serverside-blockconnections: true
 team-colour-fix: true
+translate-ocelot-to-cat: true
 truncate-1_14-books: true
 use-1_15-instant-respawn: false
 vine-climb-fix: true
@@ -103,11 +101,10 @@ vine-climb-fix: true
 auto-team: false
 bossbar-anti-flicker: false
 bossbar-patch: true
+cancel-block-sounds: true
 chunk-border-fix: true
-force-json-transform: true
 item-cache: true
 left-handed-handling: true
-minimize-cooldown: true
 no-delay-shield-blocking: false
 prevent-collision: false
 replace-pistons: false

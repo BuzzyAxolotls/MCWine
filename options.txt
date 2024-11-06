@@ -28,7 +28,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 fov:0.0
-fovEffectScale:0.050
+fovEffectScale:0.1
 fullscreen:false
 gamma:0.5
 glDebugVerbosity:0
@@ -44,10 +44,12 @@ hideSplashTexts:false
 highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
+japaneseGlyphVariants:false
 joinedFirstServer:true
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.advancements:key.keyboard.unknown
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
@@ -99,6 +101,7 @@ lang:en_us
 lastServer:
 mainHand:"right"
 maxFps:120
+menuBackgroundBlurriness:3
 mipmapLevels:2
 modelPart_cape:true
 modelPart_hat:true
@@ -126,13 +129,12 @@ realmsNotifications:false
 reducedDebugInfo:false
 renderClouds:"false"
 renderDistance:10
-resourcePacks:["fabric","vanilla","file/Default+.zip"]
+resourcePacks:["fabric","vanilla","file/Default Plus.zip"]
 screenEffectScale:0.0
 showAutosaveIndicator:false
 showSubtitles:false
 simulationDistance:8
 skipMultiplayerWarning:true
-skipRealms32bitWarning:true
 soundCategory_ambient:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
@@ -152,4 +154,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3700
+version:3955

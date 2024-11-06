@@ -1,8 +1,10 @@
 ## Mods Used For This Pack
 
+- [Allow Portal GUIs](https://modrinth.com/mod/allow-portal-guis) - **TeaMaster**,
+- [Component AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
-- [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
+- [Dynamic Lights (Aka RyoamicLights)](https://modrinth.com/mod/ryoamiclights) - **ThinkingStudio**,
 - [Faster IP Pinging (Aka fast-ip-ping)](https://modrinth.com/mod/fast-ip-ping) - **fallen-breath**,
 - [FastQuit](https://modrinth.com/mod/fastquit) - **KingContaria**,
 - [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://modrinth.com/mod/forcecloseworldloadingscreen) - **kennytv**,
@@ -18,18 +20,16 @@
 - [Iris](https://github.com/IrisShaders/Iris) - **coderbot**, **FoundationGames**, **IMS212**, **Justsnoopy30**,
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/develop) - **2No2Name**, **JellySquid**,
+- [Main Menu Credits](https://modrinth.com/mod/main-menu-credits) - **isxander**,
 - [Mica](https://modrinth.com/mod/mica) - **LemonCaramel**,
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen**, **LambdAurora**,
 - [ModernFix](https://modrinth.com/mod/modernfix) - **embeddedt**,
-- [NBT AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral**,
 - [No Flashing Night Vision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
-- [No Mod Detection (Aka Mod Detection Preventer)](https://modrinth.com/mod/moddetectionpreventer) - **JustAlittleWolf**,
 - [NoMoreScore](https://github.com/Ecorous/NoMoreScore) - **Ecorous**,
 - [Old Potions](https://modrinth.com/mod/oldpotions) - **Abbie5**,
 - [Old Icon (Aka Old MC Icon)](https://modrinth.com/mod/old-mc-logo) - **IThundxr**,
 - [Old World Menu](https://github.com/RaderRMT/OldWorldMenu) - **Kichura**, **RaderRMT**,
-- [Remove GFARB (Aka Game Menu Remove GFARB)](https://modrinth.com/mod/gamemenuremovegfarb) - **morimori0317**,
 - [Remove Reloading Screen](https://modrinth.com/mod/rrls) - **dima_dencep**,
 - [Remove Report Button (Aka No Report Button)](https://modrinth.com/mod/nrb) - **Lucaslah**,
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - **FlashyReese**,
@@ -37,22 +37,18 @@
 - [Skip Backup Screen](https://modrinth.com/mod/skip-backup-screen) - **maxthetomas**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/dev) - **JellySquid**,
 - [Sodium Extra(s)](https://modrinth.com/mod/sodium-extra) - **FlashyReese**,
-- [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
 - [Unstuck Titles (Aka Title Fix)](https://modrinth.com/mod/title-fix-mod) - **DuncanRuns**,
 - [ViaBackwards](https://modrinth.com/plugin/viabackwards) - **creeper123123321**, **ForceUpdate1**, **Gerrygames**, **kennytv**, **Matsv**,
 - [ViaFabric](https://modrinth.com/mod/viafabric) - **creeper123123321**, **EnZaXD**, **kennytv**, **Kichura**,
 - [ViaRewind](https://modrinth.com/plugin/viarewind) - **Gerrygames**, **FlorianMichael/EnZaXD**, **creeper123321123**,
-- [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**,
+- [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**.
 
 ## Libraries used for this pack
 
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - **shedaniel**,
 - [Fabric API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - **modruss50**, **sfPlayer1**,
-- [MaLiLib](https://github.com/maruohon/malilib) - **masady**,
-- [MidnightLib](https://modrinth.com/mod/midnightlib) - **Motschen**,
-- [Pride Lib](https://github.com/Queerbric/pridelib) - **Emi**, **LambdAurora**, **unascribed**,
-- [SpruceUI](https://github.com/LambdAurora/SpruceUI) - **LambdAurora**,
+- [ObsidianUI](https://modrinth.com/mod/obsidianui) - **ThinkingStudio**,
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - **_MylesC**, **creeper123123321**, **Gerrygames**, **kennytv**, **Matsv**.
 
 *(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment in main repository page)*
