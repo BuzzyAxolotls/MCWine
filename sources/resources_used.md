@@ -146,7 +146,9 @@
 - [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects,
 - [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font,
 - [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
-- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman. (Requires OF / EMF)
+- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman, (Requires OF / EMF)
+- [skeletonlol](https://www.planetminecraft.com/texture-pack/pale-oak-log-retexture) - Makes the pale oak log morely polished,
+- [MincedRaft117](https://modrinth.com/resourcepack/creaking-resin) - Recolors Resin related blocks/items to creaking heart color palette.
 
 ## Resource Pack Credits (High Contrast Plus)
 

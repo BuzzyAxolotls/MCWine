@@ -5,9 +5,6 @@
 #
 mode = "fancy"
 
-#
-# Light sources configuration, Can be modified if you wish to use your own preferences.
-#
 [light_sources]
 	#
 	# Prevents torches and other entities from lighting up when submerged into water sources.
@@ -34,7 +31,6 @@ mode = "fancy"
 	# If enabled, Make creepers light up during igniting effect.
 	#
 	creeper = "off"
-
 	#
 	# Light sources configuration goes here.
 	#
@@ -233,12 +229,3 @@ mode = "fancy"
 				zombie_horse = false
 				zombie_villager = false
 				zombified_piglin = false
-			#
-			# Other light sources configuration go here,
-			#
-			# This spot contains third-party entities such as Paradise Lost mod,
-			# and therefore can be modified aswell to meet the player's own changes.
-			#
-			[light_sources.settings.entities.paradise_lost]
-				aerbunny = false
-				moa = false
